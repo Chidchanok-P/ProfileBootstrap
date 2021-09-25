@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700335167.jpg");
+    background-size: 80%;
+  }
+.am{
+  text-align: center;
+  color: azure;
+  font-family: fantasy;
+  background-color: rgb(117, 116, 116);
+}
+.EN{
+  text-align: center;
+  color: azure;
+  font-family: fantasy;
+}
+.accordion{
+  margin-left: auto;
+  margin-right: auto;
+}
+.carousel{
+  margin-left: auto;
+  margin-right: auto;
+}
